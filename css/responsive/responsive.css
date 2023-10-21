@@ -1,0 +1,214 @@
+@media screen and (max-width:1441px)  {
+    .three h1::after {
+    
+       right: 53%;
+}
+}
+
+@media screen and (max-width:1024px) {
+    .shap-two {
+    position: absolute;
+       top: -29%;
+           left: -9%;
+}
+.home .text {
+    font-size: 62px;
+}
+.five .crd{
+    margin-top: 30px;
+}
+.three h1::after {
+    right: 44%;
+}
+.two {
+     
+    max-width: 972px;
+}
+}
+@media screen and (max-width:991px) {
+    .navbar-collapse {
+        background-color: #09c;
+        z-index: 100;
+    }
+    .navbar-nav .nav-link.active::before {
+    width: 4%;
+    left: 7px;
+    
+}
+.navbar-toggler {
+     background-color: #E2E4FE;
+}
+header nav li.nav-item a::before {
+    
+    left: 10px
+}
+header nav li.nav-item a:hover::before {
+    width:4%;
+    left: 10px;
+}
+header .btn ,header img {
+    display: none;
+}
+header nav li::after{
+    opacity: 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    color:#fff;
+}
+}
+@media screen and (max-width:768px) {
+    .home .text {
+    
+    max-width: 628px;
+  
+}
+.two {
+        max-width: 719px;
+}
+.container{
+    max-width: 645px;
+}
+.home .text .span-one::before {
+    
+    width: 251px;
+    
+    right: -16px;
+}
+.shap-two {
+       right: -166%;
+    top: -26%;
+}
+.shap-one {
+   
+    top: 65%;
+}
+.three h1 {
+ 
+    font-size: 36px;
+}
+.three h1::after {
+    
+    right: 47%;
+}
+.three .crd.last {
+    margin-top:32px;
+}
+.five .crd{
+    margin-top: 30px;
+}
+.center {
+    text-align: center;
+}
+.center input {
+  
+    width: 266px;
+}
+.two {
+    
+    padding: 0 0px 67px 93px;
+}
+}
+@media screen and (max-width:426px) {
+    .center{
+    padding: 32px 0 40px
+    }
+    .center .para {
+            margin-left: 0;
+    }
+    .center input {
+        width: 213px;
+    }
+    .center .mail {
+        margin-left: 0;
+}
+    .three .crd {
+    margin-top: 32px;
+    max-width: 100%;
+    }
+    .two {
+        padding: 0 ;
+        padding-bottom: 10PX;
+    }
+    .three .row {
+        display: block;
+    }
+     .three h1::after {
+    right: 11px;
+     }
+     .three p {
+        margin-top: 20px;
+     }
+     .four .crd {
+        margin-top: 30px;
+     }
+     .home .text .span-one::before {
+   
+    width: 92px;
+    
+    right: -9px;
+     }
+     .home .text {
+    font-size: 20px;
+     }
+    .home .text .span-two::after {
+        content: "";
+    position: absolute;
+   
+    right: 5px;
+    
+   
+    width: 75px;
+    bottom: -12px;
+  
+}
+.home .text-two {
+    max-width: 272px;
+    padding: 20px 5px;
+    color: #6D6D6D;
+    font-size: 13px;
+     }
+     .home .text-two span {
+    font-size: 13px;
+     }
+     .shap-two {
+    right: -230%;
+    top: -35%;
+     }
+    }
+    @media screen and (max-width: 321px){
+.home .text-two {
+    max-width: 220px;
+}
+.shap-two {
+    right: -406%;
+    top: -52%;
+}
+.two span::after {
+   
+    right: 30%;
+    }
+    .two h1 {
+  
+    font-size: 36px;
+    }
+    .center .btn {
+    
+    margin-left: -23%;
+        width: 117px;
+    }
+    .center input {
+   width: 203px;
+    }
+    .three h1::after {
+    right: 51%;
+        width: 70px;
+    }
+}
+@media screen and (max-width:376px) {
+    .three h1::after {
+    right: 58%;
+        width: 70px;
+    }
+    
+}
+
